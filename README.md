@@ -7,8 +7,5 @@
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/adam-soliman-71256b291/)
 
 ## 🔧 Tech Stack
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamsolimancs&layout=compact)
 - Tools: MongoDB, Node.js, Express, Git
-
-__📊 Most Used Languages__
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamsolimancs&layout=compact&hide_progress=true)
-
