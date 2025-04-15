@@ -8,4 +8,4 @@
 
 ## 🔧 Tech Stack
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamsolimancs&layout=compact)
-- Tools: MongoDB, Node.js, Express, Git
+- Tools/Frameworks: MongoDB, Node.js, Express.js, React, React-Native.
